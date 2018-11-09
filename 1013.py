@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+##sempre da erro
 import math
 
 valor = input().split(" ")
